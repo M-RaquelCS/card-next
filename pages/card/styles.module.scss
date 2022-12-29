@@ -1,0 +1,28 @@
+.container {
+ display: grid;
+ justify-items: center;
+}
+
+.content {
+ background-color: white;
+ border: 1px solid var(--blue);
+
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+ margin-top: 2rem;
+ 
+ border-radius: 0.5rem;
+ 
+ max-width: 40rem;
+ padding: 1rem;
+ 
+}
+
+.dates {
+ margin-right: 1rem;
+ //border-right: 1px solid var(--blue);
+}
+ 
+ 
