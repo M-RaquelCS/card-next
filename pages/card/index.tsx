@@ -14,11 +14,11 @@ export default function Card(){
     <div className={styles.content}>
      <div className={styles.dates}>
       <h2>Maria Raquel Cordeiro Santos</h2>
-      <p>Software Engineer</p>
-      <span>maria@hotmail.com</span> - <span>99999-9999</span>
+      <p><strong>Software Engineer</strong></p>
+      <p>maria@hotmail.com - 99999-9999</p>
      </div>
      <div>
-      <img src="https://miro.medium.com/max/160/0*zPG9dqz508rmRR70." alt="qr fake" />
+      <img src="https://miro.medium.com/max/200/0*zPG9dqz508rmRR70." alt="qr fake" />
      </div>
     </div>
    </div>
